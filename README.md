@@ -1,6 +1,6 @@
 # King 🎮
 Fizz Buzz Multithreaded
-
+* **JAVA_VERSION**: 1.8
 # Summary 🤔
 ### Fizz Buzz Multithreaded 🧵
 * Leetcode exercise: https://leetcode.com/problems/fizz-buzz-multithreaded/
