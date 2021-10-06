@@ -2,7 +2,7 @@
 Fizz Buzz Multithreaded
 
 # Summary 🤔
-### Fizz Buzz Multithreaded
+### Fizz Buzz Multithreaded 🧵
 * Leetcode exercise: https://leetcode.com/problems/fizz-buzz-multithreaded/
 
 You have the four functions:
@@ -38,10 +38,10 @@ Implement the FizzBuzz class:
 ![ExamplesFizzBuzz](img/ExampleFizzBuzz.JPG)
 
 
-## Result:
+## Result 🔍:
 
 ![ExampleShuffle](img/Result.JPG)
 
-## Simple Unitary Testing:
+## Simple Unitary Testing ✔️:
 
 ![ExampleShuffle](img/UnitaryTesting.JPG)
