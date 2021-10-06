@@ -40,8 +40,9 @@ Implement the FizzBuzz class:
 
 ## Result 🔍:
 
-![ExampleShuffle](img/Result.JPG)
+![Result](img/Result.JPG)
 
-## Simple Unitary Testing ✔️:
+## Unitary Testing ✔️:
 
-![ExampleShuffle](img/UnitaryTesting.JPG)
+// TODO
+
